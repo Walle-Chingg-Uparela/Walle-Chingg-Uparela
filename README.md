@@ -16,17 +16,7 @@
   <img src="https://github.com/Walle-Chingg-Uparela/Mis-proyectos/blob/main/img/repositorycard.jpg" width="500"/>
 </a>
 
-## 📂 Proyectos de ML y disponibilización en la nube 
-### Predicción de popularidad de canciones
-#### Frontend
-<a href=" https://github.com/Walle-Chingg-Uparela/spotify-frontend">
-  <img src="Frontend.jpg" width="400"/>
-</a>
 
-#### Backend
-<a href="https://github.com/Walle-Chingg-Uparela/spotifypopularityapi">
-    <img src="Backend.jpg" width="400"/>
-</a>
 
 ## 📂Academico 
 ### Actividades maestria inteligencia analitica de datos
