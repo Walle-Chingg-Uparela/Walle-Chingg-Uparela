@@ -17,7 +17,16 @@ Mechatronics Engineer interested in the intersection between **industrial automa
 I am currently strengthening these areas through personal, academic and applied projects, with the goal of transforming data and engineering problems into **useful information, tools and solutions for decision-making.**
 
 ---
+## 📢 Novedades / Latest Updates
 
+### 🟡 29 de agosto de 2026
+🚀 **Actualización del perfil**
+
+Con un año y 3 meses empezando como ingeniero  y casi un año estudiando posgrado, he dedicidido empezar a trabajar en mi portaflio apartir de las experiencia que he ido obteniendo, me emociona empezar , pero esa emocion debe ser un canalizador para compartir conocimiento con propositio, orden y creatividad.
+
+
+
+---
 ## 🌐 Conecta conmigo / Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Walter_Chingg-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/walterchingg)
